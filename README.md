@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on my own cmake like scripting language
+- 🌱 I’m currently learning java and sql
+- 📫 How to reach me: jakubmackiewicz5@gmail.com
 <!--
 **Kubin2001/Kubin2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
