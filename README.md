@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi!
+
+#Languages i know
+C++
+C
+C#
+
+
+
 - 🔭 I’m currently working on my own cmake like scripting language
 - 🌱 I’m currently learning java and sql
 - 📫 How to reach me: jakubmackiewicz5@gmail.com
