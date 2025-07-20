@@ -1,9 +1,10 @@
 # Hi!
 
-#Languages i know
-C++
-C
-C#
+# Languages i know
+**C++** ● ● ● ○ ○  
+**C**   ● ● ○ ○ ○  
+**C#**  ● ● ● ● ○
+
 
 
 
