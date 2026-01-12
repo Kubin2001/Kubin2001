@@ -14,10 +14,10 @@
 ---
 
 ## 🛠 Tech Stack
-  SDL2 OpenGL SQL CMake Git Linux Json XML 
+  SDL2 OpenGL SQL CMake Git Linux Json XML CMake
  
 ## 🛠 About
-- 🔭 Currently working on my own **CMake-like scripting language** https://github.com/Kubin2001/Methane2.0.
+- 🔭 Currently working on my OpenGL game building framework https://github.com/Kubin2001/OpenGlFrameWork and daily reward plugin for Minecraft https://github.com/Kubin2001/TDailyRewards
 - 🌱 Currently learning **Java** and **SQL**.
 - 📫 Reach me at: **jakubmackiewicz5@gmail.com**
 
